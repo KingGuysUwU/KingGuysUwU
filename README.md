@@ -1,7 +1,7 @@
 - 👋 Hi, I’m > @KingGuysUwU
 - 👀 I’m interested in > programming, gaming
 - 🌱 I’m currently learning > python,html, css js, java, c, c++
-- 📫 How to reach me Reach me on > replit, discord, insta or snap!
+- 📫 How to reach me... Reach me on > replit, discord, insta or snap!
 
 replit - https://replit.com/@Abhinav9091
 discord - !                SCHLATT#8390
